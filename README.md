@@ -1,2 +1,2 @@
 # Basktics-setups
-Setups
+Site infos and setups for app
